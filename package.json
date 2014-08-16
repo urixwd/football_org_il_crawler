@@ -1,0 +1,25 @@
+{
+  "name": "football_org_il_crawler",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alonronin/iab_crawler.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alonronin/football_org_il_crawler.git/issues"
+  },
+  "homepage": "https://github.com/alonronin/football_org_il_crawler.git",
+  "dependencies": {
+    "cheerio": "^0.17.0",
+    "superagent": "^0.18.2",
+    "mongoose": "^3.8.14",
+    "lodash": "^2.4.1"
+  }
+}
